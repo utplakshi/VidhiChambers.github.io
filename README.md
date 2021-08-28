@@ -7,13 +7,13 @@ It is a strategy-driven law firm, our proficient team comprises specialists who 
 Vidhi Chambers is also representing Statutory Bodies such as Municipal Corporation (Faridabad), Municipal Corporation (Panipat), Municipal Corporation (Gurgaon), Municipal Corporation (Ambala), Municipal Corporation (Chandigarh), HPCB. In the field of Medical Education, we are representing GMCH, Chandigarh, PGIMER.
 In the area of Insurance & Health TATA AIG, NSDL, Karvy Consultancy, Muthoot Group (telecommunication HUTCH & Spice). Service matters for PSPCL, CCSHAU, Cooperative Sugar Mills, Mewat Model School, Municipal Corporation Faridabad are being dealt with extensively. Contracts-commercial/ tender disputes for Haryana Tourism, PSPCL, PSTCL, HPGCL, Khadi Ashram, Iceberg. Miscellaneous litigation for Grasim Industries, Great Indian Nautanki Company, TATA Mills, Hindustan Gum & Chemicals.
 
-**How I made this website**
+<u><b>How I made this website</b></u>
 
 Some of the tools and technologies used in making this website are:-
-1)Html <br>
+1)Html<br>
 2)Css<br>
-3)BootStrap
-4)Javascript
-5)Jquery
-6)PHP
-7)My-SQL
+3)BootStrap<br>
+4)Javascript<br>
+5)Jquery<br>
+6)PHP<br>
+7)My-SQL<br>
