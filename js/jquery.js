@@ -14,7 +14,4 @@ input.onkeyup = function() {
     }
     output.innerHTML = diff + " words left"; // Tell user new word count
 }
-
-function myFunction() {
-    document.getElementById("myForm").reset();
-}
+$('.carousel').carousel()
