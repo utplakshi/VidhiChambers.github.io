@@ -10,8 +10,8 @@ In the area of Insurance & Health TATA AIG, NSDL, Karvy Consultancy, Muthoot Gro
 **How I made this website**
 
 Some of the tools and technologies used in making this website are:-
-1)Html
-2)Css
+1)Html <br>
+2)Css<br>
 3)BootStrap
 4)Javascript
 5)Jquery
